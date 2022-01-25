@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nasser
-- 👀 I’m interested in HCI, Data analysis, Machine learning, Deep learning, Bioinformatics and Bioinformatics
+- 👀 I’m interested in HCI, Data analysis, Machine learning, Deep learning, Bioinformatics and Robotcs
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on embedded and mobile phone GUIs using Qt
 - 📫 How to reach me 
